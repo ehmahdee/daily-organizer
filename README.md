@@ -1,1 +1,1 @@
-# daily-scheduler
+# daily-organizer
